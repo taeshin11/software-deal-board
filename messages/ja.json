@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "deals": "全てのディール",
+    "categories": "カテゴリ",
+    "lifetime": "生涯ライセンス",
+    "freeTrials": "無料トライアル",
+    "freeTiers": "無料プラン",
+    "expiring": "もうすぐ終了"
+  },
+  "hero": {
+    "title": "最高のソフトウェアディール — 無料 & 生涯ライセンス",
+    "subtitle": "厳選されたSaaSディール、生涯ライセンス、無料トライアル。",
+    "cta": "全てのディールを見る",
+    "badge": "60以上のディールを追跡中"
+  },
+  "deal": {
+    "getDeal": "ディールを取得",
+    "expires": "期限",
+    "lifetime": "生涯ディール",
+    "trial": "無料トライアル",
+    "discount": "割引",
+    "free": "無料プラン",
+    "off": "オフ",
+    "originalPrice": "元の価格",
+    "dealPrice": "ディール価格",
+    "daysLeft": "{d}日残り",
+    "hoursLeft": "{h}時間残り",
+    "expired": "期限切れ",
+    "ongoing": "継続中",
+    "savings": "節約",
+    "users": "ユーザー",
+    "rating": "評価",
+    "viewDeal": "ディールを見る →",
+    "expiresSoon": "もうすぐ終了",
+    "noExpiry": "期限なし"
+  },
+  "filter": {
+    "all": "全てのディール",
+    "lifetime": "生涯",
+    "trial": "無料トライアル",
+    "free": "無料プラン",
+    "discount": "割引",
+    "category": "カテゴリ",
+    "sortBy": "並び替え",
+    "newest": "最新",
+    "expiringSoon": "もうすぐ終了",
+    "biggestSavings": "最大節約"
+  },
+  "category": {
+    "all": "全てのディール",
+    "deals": "ディール",
+    "viewAll": "全て見る"
+  },
+  "search": {
+    "placeholder": "ディールを検索...",
+    "noResults": "ディールが見つかりません",
+    "results": "{count}件のディールが見つかりました"
+  },
+  "expiring": {
+    "title": "今週終了するディール",
+    "subtitle": "7日以内に期限切れになるディールを見逃さないで！",
+    "empty": "今週期限切れになるディールはありません。またご確認ください！"
+  },
+  "lifetime": {
+    "title": "生涯ソフトウェアディール",
+    "subtitle": "一度支払い、永久に使用。最高の生涯ディール。"
+  },
+  "freeTrials": {
+    "title": "無料トライアルオファー",
+    "subtitle": "購入前に試してみましょう。ほとんどクレジットカード不要。"
+  },
+  "freeTiers": {
+    "title": "永久無料プラン",
+    "subtitle": "充実した無料プランを提供する優れたツール。"
+  },
+  "footer": {
+    "visitorsToday": "今日: {count}",
+    "visitorsTotal": "合計: {count}",
+    "disclaimer": "価格は変更される場合があります。購入前にベンダーサイトで確認してください。",
+    "tagline": "2025年から最高のソフトウェアディールをキュレーション。",
+    "rights": "全著作権所有。",
+    "affiliate": "一部のリンクはアフィリエイトリンクです。手数料を受け取る場合があります。"
+  },
+  "meta": {
+    "siteTitle": "ソフトウェアディールボード",
+    "siteDescription": "最高のソフトウェアディール、生涯ライセンス & 無料トライアルトラッカー。",
+    "dealsTitle": "全てのソフトウェアディール",
+    "dealsDescription": "全てのソフトウェアディール、生涯ライセンス、無料トライアル、割引を閲覧。",
+    "lifetimeTitle": "生涯ソフトウェアディール",
+    "lifetimeDescription": "一度支払い、永久に使用。最高の生涯ソフトウェアディール。",
+    "freeTrialsTitle": "無料ソフトウェアトライアル",
+    "freeTrialsDescription": "トップソフトウェアツールを無料でお試し。",
+    "freetiersTitle": "無料ソフトウェアプラン",
+    "freetiersDescription": "最高の無料ソフトウェアプラン — コストなしの強力なツール。",
+    "expiringTitle": "期限切れ間近のソフトウェアディール",
+    "expiringDescription": "今週期限切れになるソフトウェアディール。今すぐ行動を！"
+  }
+}

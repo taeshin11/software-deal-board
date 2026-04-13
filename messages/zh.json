@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "首页",
+    "deals": "所有优惠",
+    "categories": "分类",
+    "lifetime": "终身授权",
+    "freeTrials": "免费试用",
+    "freeTiers": "免费套餐",
+    "expiring": "即将到期"
+  },
+  "hero": {
+    "title": "最佳软件优惠 — 免费 & 终身授权",
+    "subtitle": "精选SaaS优惠、终身许可证和免费试用。省钱购买您喜欢的工具。",
+    "cta": "浏览所有优惠",
+    "badge": "追踪60+个优惠"
+  },
+  "deal": {
+    "getDeal": "获取优惠",
+    "expires": "到期",
+    "lifetime": "终身优惠",
+    "trial": "免费试用",
+    "discount": "折扣",
+    "free": "免费套餐",
+    "off": "折扣",
+    "originalPrice": "原价",
+    "dealPrice": "优惠价",
+    "daysLeft": "剩{d}天",
+    "hoursLeft": "剩{h}小时",
+    "expired": "已过期",
+    "ongoing": "持续进行",
+    "savings": "节省",
+    "users": "用户",
+    "rating": "评分",
+    "viewDeal": "查看优惠 →",
+    "expiresSoon": "即将到期",
+    "noExpiry": "永久有效"
+  },
+  "filter": {
+    "all": "所有优惠",
+    "lifetime": "终身",
+    "trial": "免费试用",
+    "free": "免费套餐",
+    "discount": "折扣",
+    "category": "分类",
+    "sortBy": "排序",
+    "newest": "最新",
+    "expiringSoon": "即将到期",
+    "biggestSavings": "最大节省"
+  },
+  "category": {
+    "all": "所有优惠",
+    "deals": "优惠",
+    "viewAll": "查看全部"
+  },
+  "search": {
+    "placeholder": "搜索优惠...",
+    "noResults": "未找到优惠",
+    "results": "找到{count}个优惠"
+  },
+  "expiring": {
+    "title": "本周到期优惠",
+    "subtitle": "不要错过这些7天内到期的优惠！",
+    "empty": "本周没有到期的优惠。请稍后再查看！"
+  },
+  "lifetime": {
+    "title": "终身软件优惠",
+    "subtitle": "一次付款，永久使用。市场上最好的终身优惠。"
+  },
+  "freeTrials": {
+    "title": "免费试用优惠",
+    "subtitle": "先试后买。大多数优惠无需信用卡。"
+  },
+  "freeTiers": {
+    "title": "永久免费套餐",
+    "subtitle": "提供慷慨免费计划的优质工具。"
+  },
+  "footer": {
+    "visitorsToday": "今日: {count}",
+    "visitorsTotal": "总计: {count}",
+    "disclaimer": "价格可能变更。购买前请在供应商网站核实。",
+    "tagline": "自2025年起精选最佳软件优惠。",
+    "rights": "版权所有。",
+    "affiliate": "部分链接为联盟链接。我们可能获得佣金。"
+  },
+  "meta": {
+    "siteTitle": "软件优惠板",
+    "siteDescription": "最佳软件优惠、终身许可证和免费试用追踪器。",
+    "dealsTitle": "所有软件优惠",
+    "dealsDescription": "浏览所有软件优惠、终身许可证、免费试用和折扣。",
+    "lifetimeTitle": "终身软件优惠",
+    "lifetimeDescription": "一次付款，永久使用。最佳终身软件优惠。",
+    "freeTrialsTitle": "免费软件试用",
+    "freeTrialsDescription": "免费试用顶级软件工具。",
+    "freetiersTitle": "免费软件套餐",
+    "freetiersDescription": "最佳免费软件套餐 — 强大工具，零成本。",
+    "expiringTitle": "即将到期的软件优惠",
+    "expiringDescription": "本周到期的软件优惠。赶快行动，别错过！"
+  }
+}

@@ -1,0 +1,12 @@
+[
+  { "slug": "design", "name": "Design", "icon": "🎨", "count": 7, "description": "Design tools for UI/UX, graphics, and visual content" },
+  { "slug": "development", "name": "Development", "icon": "💻", "count": 14, "description": "Developer tools, hosting, databases, and IDEs" },
+  { "slug": "productivity", "name": "Productivity", "icon": "⚡", "count": 7, "description": "Task management, note-taking, and workflow tools" },
+  { "slug": "marketing", "name": "Marketing", "icon": "📣", "count": 8, "description": "SEO, email marketing, and growth tools" },
+  { "slug": "security", "name": "Security", "icon": "🔒", "count": 3, "description": "VPN, password managers, and security tools" },
+  { "slug": "business", "name": "Business", "icon": "💼", "count": 5, "description": "Business tools, automation, and team management" },
+  { "slug": "ai-ml", "name": "AI/ML", "icon": "🤖", "count": 6, "description": "Artificial intelligence and machine learning tools" },
+  { "slug": "cms", "name": "CMS", "icon": "📝", "count": 4, "description": "Content management systems and publishing platforms" },
+  { "slug": "analytics", "name": "Analytics", "icon": "📊", "count": 4, "description": "Web analytics, heatmaps, and product insights" },
+  { "slug": "communication", "name": "Communication", "icon": "💬", "count": 4, "description": "Team messaging, video calls, and collaboration" }
+]

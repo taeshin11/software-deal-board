@@ -1,0 +1,5 @@
+[
+  { "id": "appsumo", "name": "AppSumo", "url": "https://appsumo.com", "description": "Lifetime software deals for entrepreneurs", "dealCount": 5 },
+  { "id": "stacksocial", "name": "StackSocial", "url": "https://stacksocial.com", "description": "Curated tech deals and software bundles", "dealCount": 3 },
+  { "id": "direct", "name": "Direct", "url": "#", "description": "Deals directly from software vendors", "dealCount": 52 }
+]

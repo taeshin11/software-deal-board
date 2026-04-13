@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "deals": "Todas las ofertas",
+    "categories": "Categorías",
+    "lifetime": "Licencias de por vida",
+    "freeTrials": "Pruebas gratuitas",
+    "freeTiers": "Planes gratuitos",
+    "expiring": "Por vencer"
+  },
+  "hero": {
+    "title": "Las Mejores Ofertas de Software — Gratis & De Por Vida",
+    "subtitle": "Ofertas SaaS curadas, licencias de por vida y pruebas gratuitas.",
+    "cta": "Ver todas las ofertas",
+    "badge": "60+ ofertas rastreadas"
+  },
+  "deal": {
+    "getDeal": "Obtener oferta",
+    "expires": "Vence",
+    "lifetime": "Oferta de por vida",
+    "trial": "Prueba gratuita",
+    "discount": "Descuento",
+    "free": "Plan gratuito",
+    "off": "DESCUENTO",
+    "originalPrice": "Precio original",
+    "dealPrice": "Precio de oferta",
+    "daysLeft": "{d}d restantes",
+    "hoursLeft": "{h}h restantes",
+    "expired": "Vencido",
+    "ongoing": "En curso",
+    "savings": "Ahorra",
+    "users": "usuarios",
+    "rating": "valoración",
+    "viewDeal": "Ver oferta →",
+    "expiresSoon": "Por vencer",
+    "noExpiry": "Sin vencimiento"
+  },
+  "filter": {
+    "all": "Todas las ofertas",
+    "lifetime": "De por vida",
+    "trial": "Prueba gratuita",
+    "free": "Plan gratuito",
+    "discount": "Descuento",
+    "category": "Categoría",
+    "sortBy": "Ordenar por",
+    "newest": "Más recientes",
+    "expiringSoon": "Por vencer",
+    "biggestSavings": "Mayor ahorro"
+  },
+  "category": {
+    "all": "Todas las ofertas",
+    "deals": "ofertas",
+    "viewAll": "Ver todas"
+  },
+  "search": {
+    "placeholder": "Buscar ofertas...",
+    "noResults": "No se encontraron ofertas",
+    "results": "{count} ofertas encontradas"
+  },
+  "expiring": {
+    "title": "Vencen esta semana",
+    "subtitle": "¡No pierdas estas ofertas que vencen en 7 días!",
+    "empty": "No hay ofertas que venzan esta semana. ¡Vuelve pronto!"
+  },
+  "lifetime": {
+    "title": "Ofertas de software de por vida",
+    "subtitle": "Paga una vez, usa para siempre. Las mejores ofertas de por vida."
+  },
+  "freeTrials": {
+    "title": "Ofertas de prueba gratuita",
+    "subtitle": "Prueba antes de comprar. Sin tarjeta de crédito en la mayoría."
+  },
+  "freeTiers": {
+    "title": "Planes gratuitos para siempre",
+    "subtitle": "Excelentes herramientas con generosos planes gratuitos."
+  },
+  "footer": {
+    "visitorsToday": "Hoy: {count}",
+    "visitorsTotal": "Total: {count}",
+    "disclaimer": "Los precios están sujetos a cambios. Verifica en el sitio del vendedor.",
+    "tagline": "Curación de las mejores ofertas de software desde 2025.",
+    "rights": "Todos los derechos reservados.",
+    "affiliate": "Algunos enlaces son de afiliados. Podemos ganar una comisión."
+  },
+  "meta": {
+    "siteTitle": "SoftwareDealBoard",
+    "siteDescription": "Las mejores ofertas de software, licencias de por vida y rastreador de pruebas gratuitas.",
+    "dealsTitle": "Todas las ofertas de software",
+    "dealsDescription": "Explora todas las ofertas de software, licencias de por vida, pruebas gratuitas y descuentos.",
+    "lifetimeTitle": "Ofertas de software de por vida",
+    "lifetimeDescription": "Paga una vez, usa para siempre. Las mejores ofertas de software de por vida.",
+    "freeTrialsTitle": "Pruebas gratuitas de software",
+    "freeTrialsDescription": "Prueba las mejores herramientas de software gratis.",
+    "freetiersTitle": "Planes gratuitos de software",
+    "freetiersDescription": "Los mejores planes gratuitos de software — herramientas potentes sin costo.",
+    "expiringTitle": "Ofertas de software por vencer",
+    "expiringDescription": "Ofertas de software que vencen esta semana. ¡Actúa rápido!"
+  }
+}

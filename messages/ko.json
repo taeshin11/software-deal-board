@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "홈",
+    "deals": "모든 딜",
+    "categories": "카테고리",
+    "lifetime": "평생 라이선스",
+    "freeTrials": "무료 체험",
+    "freeTiers": "무료 플랜",
+    "expiring": "곧 만료"
+  },
+  "hero": {
+    "title": "최고의 소프트웨어 딜 — 무료 & 평생 라이선스",
+    "subtitle": "엄선된 SaaS 딜, 평생 구독권, 무료 체험. 좋아하는 툴을 저렴하게.",
+    "cta": "모든 딜 보기",
+    "badge": "60+ 딜 추적 중"
+  },
+  "deal": {
+    "getDeal": "딜 받기",
+    "expires": "만료",
+    "lifetime": "평생 딜",
+    "trial": "무료 체험",
+    "discount": "할인",
+    "free": "무료 플랜",
+    "off": "할인",
+    "originalPrice": "원가",
+    "dealPrice": "딜 가격",
+    "daysLeft": "{d}일 남음",
+    "hoursLeft": "{h}시간 남음",
+    "expired": "만료됨",
+    "ongoing": "진행 중",
+    "savings": "절약",
+    "users": "사용자",
+    "rating": "평점",
+    "viewDeal": "딜 보기 →",
+    "expiresSoon": "곧 만료",
+    "noExpiry": "만료 없음"
+  },
+  "filter": {
+    "all": "모든 딜",
+    "lifetime": "평생",
+    "trial": "무료 체험",
+    "free": "무료 플랜",
+    "discount": "할인",
+    "category": "카테고리",
+    "sortBy": "정렬",
+    "newest": "최신순",
+    "expiringSoon": "만료 임박",
+    "biggestSavings": "최대 절약"
+  },
+  "category": {
+    "all": "모든 딜",
+    "deals": "딜",
+    "viewAll": "모두 보기"
+  },
+  "search": {
+    "placeholder": "딜 검색...",
+    "noResults": "딜을 찾을 수 없습니다",
+    "results": "{count}개 딜 발견"
+  },
+  "expiring": {
+    "title": "이번 주 만료 딜",
+    "subtitle": "7일 내 만료되는 딜을 놓치지 마세요!",
+    "empty": "이번 주에 만료되는 딜이 없습니다. 곧 다시 확인하세요!"
+  },
+  "lifetime": {
+    "title": "평생 소프트웨어 딜",
+    "subtitle": "한 번 구매, 영구 사용. 최고의 평생 딜."
+  },
+  "freeTrials": {
+    "title": "무료 체험 혜택",
+    "subtitle": "구매 전 체험. 대부분 신용카드 불필요."
+  },
+  "freeTiers": {
+    "title": "영구 무료 플랜",
+    "subtitle": "넉넉한 무료 플랜을 제공하는 훌륭한 툴들."
+  },
+  "footer": {
+    "visitorsToday": "오늘: {count}",
+    "visitorsTotal": "총: {count}",
+    "disclaimer": "가격은 변경될 수 있습니다. 구매 전 벤더 사이트에서 확인하세요.",
+    "tagline": "2025년부터 최고의 소프트웨어 딜 큐레이션.",
+    "rights": "모든 권리 보유.",
+    "affiliate": "일부 링크는 제휴 링크입니다. 커미션을 받을 수 있습니다."
+  },
+  "meta": {
+    "siteTitle": "소프트웨어딜보드",
+    "siteDescription": "최고의 소프트웨어 딜, 평생 구독권 & 무료 체험 트래커.",
+    "dealsTitle": "모든 소프트웨어 딜",
+    "dealsDescription": "모든 소프트웨어 딜, 평생 라이선스, 무료 체험, 할인 탐색.",
+    "lifetimeTitle": "평생 소프트웨어 딜",
+    "lifetimeDescription": "한 번 구매, 영구 사용. 최고의 평생 소프트웨어 딜.",
+    "freeTrialsTitle": "무료 소프트웨어 체험",
+    "freeTrialsDescription": "최고의 소프트웨어 툴 무료 체험. 대부분 신용카드 불필요.",
+    "freetiersTitle": "무료 소프트웨어 플랜",
+    "freetiersDescription": "최고의 무료 소프트웨어 플랜 — 강력한 도구, 비용 없음.",
+    "expiringTitle": "만료 임박 소프트웨어 딜",
+    "expiringDescription": "이번 주 만료되는 소프트웨어 딜. 놓치기 전에 빠르게 행동하세요!"
+  }
+}

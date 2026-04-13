@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "deals": "Toutes les offres",
+    "categories": "Catégories",
+    "lifetime": "Licences à vie",
+    "freeTrials": "Essais gratuits",
+    "freeTiers": "Plans gratuits",
+    "expiring": "Expire bientôt"
+  },
+  "hero": {
+    "title": "Meilleures offres logicielles — Gratuit & À vie",
+    "subtitle": "Offres SaaS sélectionnées, licences à vie et essais gratuits.",
+    "cta": "Voir toutes les offres",
+    "badge": "60+ offres suivies"
+  },
+  "deal": {
+    "getDeal": "Obtenir l'offre",
+    "expires": "Expire",
+    "lifetime": "Offre à vie",
+    "trial": "Essai gratuit",
+    "discount": "Réduction",
+    "free": "Plan gratuit",
+    "off": "DE RÉDUCTION",
+    "originalPrice": "Prix original",
+    "dealPrice": "Prix de l'offre",
+    "daysLeft": "{d}j restants",
+    "hoursLeft": "{h}h restantes",
+    "expired": "Expiré",
+    "ongoing": "En cours",
+    "savings": "Économisez",
+    "users": "utilisateurs",
+    "rating": "note",
+    "viewDeal": "Voir l'offre →",
+    "expiresSoon": "Expire bientôt",
+    "noExpiry": "Sans expiration"
+  },
+  "filter": {
+    "all": "Toutes les offres",
+    "lifetime": "À vie",
+    "trial": "Essai gratuit",
+    "free": "Plan gratuit",
+    "discount": "Réduction",
+    "category": "Catégorie",
+    "sortBy": "Trier par",
+    "newest": "Plus récents",
+    "expiringSoon": "Expire bientôt",
+    "biggestSavings": "Plus grandes économies"
+  },
+  "category": {
+    "all": "Toutes les offres",
+    "deals": "offres",
+    "viewAll": "Voir tout"
+  },
+  "search": {
+    "placeholder": "Rechercher des offres...",
+    "noResults": "Aucune offre trouvée",
+    "results": "{count} offres trouvées"
+  },
+  "expiring": {
+    "title": "Expire cette semaine",
+    "subtitle": "Ne manquez pas ces offres qui expirent dans 7 jours !",
+    "empty": "Aucune offre n'expire cette semaine. Revenez bientôt !"
+  },
+  "lifetime": {
+    "title": "Offres logicielles à vie",
+    "subtitle": "Payez une fois, utilisez pour toujours. Les meilleures offres à vie."
+  },
+  "freeTrials": {
+    "title": "Offres d'essai gratuites",
+    "subtitle": "Essayez avant d'acheter. Pas de carte de crédit pour la plupart."
+  },
+  "freeTiers": {
+    "title": "Plans gratuits pour toujours",
+    "subtitle": "Excellents outils avec des plans gratuits généreux."
+  },
+  "footer": {
+    "visitorsToday": "Aujourd'hui : {count}",
+    "visitorsTotal": "Total : {count}",
+    "disclaimer": "Les prix sont susceptibles de changer. Vérifiez sur le site du vendeur.",
+    "tagline": "Curation des meilleures offres logicielles depuis 2025.",
+    "rights": "Tous droits réservés.",
+    "affiliate": "Certains liens sont des liens affiliés. Nous pouvons percevoir une commission."
+  },
+  "meta": {
+    "siteTitle": "SoftwareDealBoard",
+    "siteDescription": "Meilleures offres logicielles, licences à vie et suivi des essais gratuits.",
+    "dealsTitle": "Toutes les offres logicielles",
+    "dealsDescription": "Parcourez toutes les offres logicielles, licences à vie, essais gratuits et réductions.",
+    "lifetimeTitle": "Offres logicielles à vie",
+    "lifetimeDescription": "Payez une fois, utilisez pour toujours. Les meilleures offres logicielles à vie.",
+    "freeTrialsTitle": "Essais logiciels gratuits",
+    "freeTrialsDescription": "Essayez les meilleurs outils logiciels gratuitement.",
+    "freetiersTitle": "Plans logiciels gratuits",
+    "freetiersDescription": "Les meilleurs plans logiciels gratuits — outils puissants sans coût.",
+    "expiringTitle": "Offres logicielles qui expirent",
+    "expiringDescription": "Offres logicielles qui expirent cette semaine. Agissez vite !"
+  }
+}

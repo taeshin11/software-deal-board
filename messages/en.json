@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Home",
+    "deals": "All Deals",
+    "categories": "Categories",
+    "lifetime": "Lifetime Deals",
+    "freeTrials": "Free Trials",
+    "freeTiers": "Free Tiers",
+    "expiring": "Expiring Soon"
+  },
+  "hero": {
+    "title": "Best Software Deals — Free & Lifetime",
+    "subtitle": "Curated SaaS deals, lifetime offers, and free trials. Save money on the tools you love.",
+    "cta": "Browse All Deals",
+    "badge": "60+ Deals Tracked"
+  },
+  "deal": {
+    "getDeal": "Get This Deal",
+    "expires": "Expires",
+    "lifetime": "Lifetime Deal",
+    "trial": "Free Trial",
+    "discount": "Discount",
+    "free": "Free Tier",
+    "off": "OFF",
+    "originalPrice": "Original",
+    "dealPrice": "Deal Price",
+    "daysLeft": "{d}d left",
+    "hoursLeft": "{h}h left",
+    "expired": "Expired",
+    "ongoing": "Ongoing",
+    "savings": "Save",
+    "users": "users",
+    "rating": "rating",
+    "viewDeal": "View Deal →",
+    "expiresSoon": "Expires Soon",
+    "noExpiry": "No expiry"
+  },
+  "filter": {
+    "all": "All Deals",
+    "lifetime": "Lifetime",
+    "trial": "Free Trial",
+    "free": "Free Tier",
+    "discount": "Discount",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "newest": "Newest",
+    "expiringSoon": "Expiring Soon",
+    "biggestSavings": "Biggest Savings"
+  },
+  "category": {
+    "all": "All Deals",
+    "deals": "deals",
+    "viewAll": "View all"
+  },
+  "search": {
+    "placeholder": "Search deals...",
+    "noResults": "No deals found",
+    "results": "{count} deals found"
+  },
+  "expiring": {
+    "title": "Expiring This Week",
+    "subtitle": "Don't miss these deals — they expire within 7 days!",
+    "empty": "No deals expiring this week. Check back soon!"
+  },
+  "lifetime": {
+    "title": "Lifetime Software Deals",
+    "subtitle": "Pay once, use forever. The best lifetime deals on the market."
+  },
+  "freeTrials": {
+    "title": "Free Trial Offers",
+    "subtitle": "Try before you buy. No credit card required on most offers."
+  },
+  "freeTiers": {
+    "title": "Free Forever Tiers",
+    "subtitle": "Great tools with generous free plans — no credit card needed."
+  },
+  "footer": {
+    "visitorsToday": "Today: {count}",
+    "visitorsTotal": "Total: {count}",
+    "disclaimer": "Prices subject to change. Verify on vendor site before purchasing.",
+    "tagline": "Curating the best software deals since 2025.",
+    "rights": "All rights reserved.",
+    "affiliate": "Some links are affiliate links. We may earn a commission."
+  },
+  "meta": {
+    "siteTitle": "SoftwareDealBoard",
+    "siteDescription": "Best software deals, lifetime offers & free trials tracker. Find curated SaaS deals and save money.",
+    "dealsTitle": "All Software Deals",
+    "dealsDescription": "Browse all software deals, lifetime licenses, free trials, and discounts.",
+    "lifetimeTitle": "Lifetime Software Deals",
+    "lifetimeDescription": "Pay once, use forever. The best lifetime software deals available now.",
+    "freeTrialsTitle": "Free Software Trials",
+    "freeTrialsDescription": "Try top software tools for free. No credit card required on most offers.",
+    "freetiersTitle": "Free Software Tiers",
+    "freetiersDescription": "The best free software tiers — powerful tools with no cost ever.",
+    "expiringTitle": "Expiring Software Deals",
+    "expiringDescription": "Software deals expiring this week. Act fast before they're gone!"
+  }
+}

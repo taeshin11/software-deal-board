@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Início",
+    "deals": "Todas as ofertas",
+    "categories": "Categorias",
+    "lifetime": "Licenças vitalícias",
+    "freeTrials": "Testes gratuitos",
+    "freeTiers": "Planos gratuitos",
+    "expiring": "Expirando em breve"
+  },
+  "hero": {
+    "title": "Melhores ofertas de software — Grátis & Vitalício",
+    "subtitle": "Ofertas SaaS curadas, licenças vitalícias e testes gratuitos.",
+    "cta": "Ver todas as ofertas",
+    "badge": "60+ ofertas rastreadas"
+  },
+  "deal": {
+    "getDeal": "Obter oferta",
+    "expires": "Expira",
+    "lifetime": "Oferta vitalícia",
+    "trial": "Teste gratuito",
+    "discount": "Desconto",
+    "free": "Plano gratuito",
+    "off": "DE DESCONTO",
+    "originalPrice": "Preço original",
+    "dealPrice": "Preço da oferta",
+    "daysLeft": "{d}d restantes",
+    "hoursLeft": "{h}h restantes",
+    "expired": "Expirado",
+    "ongoing": "Em andamento",
+    "savings": "Economize",
+    "users": "usuários",
+    "rating": "avaliação",
+    "viewDeal": "Ver oferta →",
+    "expiresSoon": "Expira em breve",
+    "noExpiry": "Sem expiração"
+  },
+  "filter": {
+    "all": "Todas as ofertas",
+    "lifetime": "Vitalício",
+    "trial": "Teste gratuito",
+    "free": "Plano gratuito",
+    "discount": "Desconto",
+    "category": "Categoria",
+    "sortBy": "Ordenar por",
+    "newest": "Mais recentes",
+    "expiringSoon": "Expirando em breve",
+    "biggestSavings": "Maiores economias"
+  },
+  "category": {
+    "all": "Todas as ofertas",
+    "deals": "ofertas",
+    "viewAll": "Ver todas"
+  },
+  "search": {
+    "placeholder": "Pesquisar ofertas...",
+    "noResults": "Nenhuma oferta encontrada",
+    "results": "{count} ofertas encontradas"
+  },
+  "expiring": {
+    "title": "Expira esta semana",
+    "subtitle": "Não perca estas ofertas — expiram em 7 dias!",
+    "empty": "Nenhuma oferta expira esta semana. Volte em breve!"
+  },
+  "lifetime": {
+    "title": "Ofertas de software vitalícias",
+    "subtitle": "Pague uma vez, use para sempre. As melhores ofertas vitalícias."
+  },
+  "freeTrials": {
+    "title": "Ofertas de teste gratuito",
+    "subtitle": "Experimente antes de comprar. Sem cartão de crédito na maioria."
+  },
+  "freeTiers": {
+    "title": "Planos gratuitos para sempre",
+    "subtitle": "Ótimas ferramentas com planos gratuitos generosos."
+  },
+  "footer": {
+    "visitorsToday": "Hoje: {count}",
+    "visitorsTotal": "Total: {count}",
+    "disclaimer": "Preços sujeitos a alterações. Verifique no site do fornecedor.",
+    "tagline": "Curadoria das melhores ofertas de software desde 2025.",
+    "rights": "Todos os direitos reservados.",
+    "affiliate": "Alguns links são de afiliados. Podemos ganhar uma comissão."
+  },
+  "meta": {
+    "siteTitle": "SoftwareDealBoard",
+    "siteDescription": "Melhores ofertas de software, licenças vitalícias e rastreador de testes gratuitos.",
+    "dealsTitle": "Todas as ofertas de software",
+    "dealsDescription": "Navegue por todas as ofertas de software, licenças vitalícias, testes gratuitos e descontos.",
+    "lifetimeTitle": "Ofertas de software vitalícias",
+    "lifetimeDescription": "Pague uma vez, use para sempre. As melhores ofertas de software vitalícias.",
+    "freeTrialsTitle": "Testes gratuitos de software",
+    "freeTrialsDescription": "Experimente as melhores ferramentas de software gratuitamente.",
+    "freetiersTitle": "Planos gratuitos de software",
+    "freetiersDescription": "Os melhores planos gratuitos de software — ferramentas poderosas sem custo.",
+    "expiringTitle": "Ofertas de software expirando",
+    "expiringDescription": "Ofertas de software que expiram esta semana. Aja rápido!"
+  }
+}

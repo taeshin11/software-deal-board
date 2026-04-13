@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "deals": "Alle Angebote",
+    "categories": "Kategorien",
+    "lifetime": "Lebenslange Lizenzen",
+    "freeTrials": "Kostenlose Tests",
+    "freeTiers": "Kostenlose Pläne",
+    "expiring": "Läuft bald ab"
+  },
+  "hero": {
+    "title": "Beste Software-Angebote — Kostenlos & Lebenslang",
+    "subtitle": "Kuratierte SaaS-Deals, lebenslange Lizenzen und kostenlose Tests.",
+    "cta": "Alle Angebote ansehen",
+    "badge": "60+ Angebote verfolgt"
+  },
+  "deal": {
+    "getDeal": "Angebot holen",
+    "expires": "Läuft ab",
+    "lifetime": "Lebenslanges Angebot",
+    "trial": "Kostenloser Test",
+    "discount": "Rabatt",
+    "free": "Kostenloser Plan",
+    "off": "RABATT",
+    "originalPrice": "Originalpreis",
+    "dealPrice": "Angebotspreis",
+    "daysLeft": "{d}T übrig",
+    "hoursLeft": "{h}St. übrig",
+    "expired": "Abgelaufen",
+    "ongoing": "Laufend",
+    "savings": "Sparen",
+    "users": "Nutzer",
+    "rating": "Bewertung",
+    "viewDeal": "Angebot ansehen →",
+    "expiresSoon": "Läuft bald ab",
+    "noExpiry": "Kein Ablaufdatum"
+  },
+  "filter": {
+    "all": "Alle Angebote",
+    "lifetime": "Lebenslang",
+    "trial": "Kostenloser Test",
+    "free": "Kostenloser Plan",
+    "discount": "Rabatt",
+    "category": "Kategorie",
+    "sortBy": "Sortieren nach",
+    "newest": "Neueste",
+    "expiringSoon": "Läuft bald ab",
+    "biggestSavings": "Größte Ersparnisse"
+  },
+  "category": {
+    "all": "Alle Angebote",
+    "deals": "Angebote",
+    "viewAll": "Alle ansehen"
+  },
+  "search": {
+    "placeholder": "Angebote suchen...",
+    "noResults": "Keine Angebote gefunden",
+    "results": "{count} Angebote gefunden"
+  },
+  "expiring": {
+    "title": "Diese Woche ablaufend",
+    "subtitle": "Verpassen Sie keine Deals — sie laufen in 7 Tagen ab!",
+    "empty": "Diese Woche laufen keine Angebote ab. Schauen Sie bald wieder vorbei!"
+  },
+  "lifetime": {
+    "title": "Lebenslange Software-Angebote",
+    "subtitle": "Einmal bezahlen, für immer nutzen. Die besten lebenslangen Deals."
+  },
+  "freeTrials": {
+    "title": "Kostenlose Testangebote",
+    "subtitle": "Erst testen, dann kaufen. Bei den meisten keine Kreditkarte erforderlich."
+  },
+  "freeTiers": {
+    "title": "Dauerhaft kostenlose Pläne",
+    "subtitle": "Hervorragende Tools mit großzügigen kostenlosen Plänen."
+  },
+  "footer": {
+    "visitorsToday": "Heute: {count}",
+    "visitorsTotal": "Gesamt: {count}",
+    "disclaimer": "Preise können sich ändern. Bitte beim Anbieter prüfen.",
+    "tagline": "Die besten Software-Deals seit 2025 kuratiert.",
+    "rights": "Alle Rechte vorbehalten.",
+    "affiliate": "Einige Links sind Affiliate-Links. Wir erhalten möglicherweise eine Provision."
+  },
+  "meta": {
+    "siteTitle": "SoftwareDealBoard",
+    "siteDescription": "Beste Software-Angebote, lebenslange Lizenzen & Tracker für kostenlose Tests.",
+    "dealsTitle": "Alle Software-Angebote",
+    "dealsDescription": "Durchsuchen Sie alle Software-Angebote, lebenslange Lizenzen, kostenlose Tests und Rabatte.",
+    "lifetimeTitle": "Lebenslange Software-Angebote",
+    "lifetimeDescription": "Einmal bezahlen, für immer nutzen. Die besten lebenslangen Software-Angebote.",
+    "freeTrialsTitle": "Kostenlose Software-Tests",
+    "freeTrialsDescription": "Testen Sie Top-Software-Tools kostenlos.",
+    "freetiersTitle": "Kostenlose Software-Pläne",
+    "freetiersDescription": "Die besten kostenlosen Software-Pläne — leistungsstarke Tools ohne Kosten.",
+    "expiringTitle": "Ablaufende Software-Angebote",
+    "expiringDescription": "Software-Angebote, die diese Woche ablaufen. Handeln Sie schnell!"
+  }
+}

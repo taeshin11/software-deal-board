@@ -3,7 +3,7 @@ import { routing } from './i18n/routing';
 
 const handleI18nRouting = createMiddleware(routing);
 
-export function proxy(request: import('next/server').NextRequest) {
+export default function proxy(request: import('next/server').NextRequest) {
   return handleI18nRouting(request);
 }
 

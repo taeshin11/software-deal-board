@@ -49,6 +49,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'hourly',
       priority: 0.95
     });
+    entries.push({
+      url: `${BASE_URL}/${locale}/about`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.6
+    });
+    entries.push({
+      url: `${BASE_URL}/${locale}/how-to-use`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.6
+    });
+    entries.push({
+      url: `${BASE_URL}/${locale}/privacy`,
+      lastModified: now,
+      changeFrequency: 'yearly',
+      priority: 0.3
+    });
+    entries.push({
+      url: `${BASE_URL}/${locale}/terms`,
+      lastModified: now,
+      changeFrequency: 'yearly',
+      priority: 0.3
+    });
 
     // Deal pages
     for (const deal of deals) {

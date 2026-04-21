@@ -6,6 +6,9 @@ import { CategoryGrid } from '../../components/CategoryGrid';
 import { DealTable } from '../../components/DealTable';
 import { ExpiryBadge } from '../../components/ExpiryBadge';
 
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
+
 export const metadata: Metadata = {
   title: 'SoftwareDealBoard — Best Software Deals, Lifetime Offers & Free Trials',
   description: 'Find curated SaaS deals, lifetime licenses, free trials and discounts. Save money on the tools you love.',
@@ -159,6 +162,8 @@ export default async function HomePage({
             </Link>
           </div>
         </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
       </div>
     </>
   );

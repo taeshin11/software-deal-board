@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  verification: {
+    google: "WddgcbVJsL2BGHNAje5m6DK56IcR0Mw5UOqozI2Xtrc",
+  },
   title: "SoftwareDealBoard — Best Software Deals, Lifetime Offers & Free Trials",
   description: "Find the best software deals, lifetime licenses, free trials and discounts. Curated SaaS deals for developers, founders, and freelancers.",
 };

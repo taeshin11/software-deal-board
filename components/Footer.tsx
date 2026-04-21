@@ -10,7 +10,7 @@ export function Footer({ locale, visitorsToday = 0, visitorsTotal = 0 }: FooterP
   return (
     <footer className="bg-[#052e16] text-green-200 mt-16">
       <div className="max-w-7xl mx-auto px-4 py-10">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
             <div className="flex items-center gap-2 mb-3">
               <span className="text-2xl">💸</span>
@@ -38,6 +38,16 @@ export function Footer({ locale, visitorsToday = 0, visitorsTotal = 0 }: FooterP
               <li><Link href={`/${locale}/categories/productivity`} className="hover:text-white transition-colors">Productivity</Link></li>
               <li><Link href={`/${locale}/categories/marketing`} className="hover:text-white transition-colors">Marketing</Link></li>
               <li><Link href={`/${locale}/categories/ai-ml`} className="hover:text-white transition-colors">AI/ML</Link></li>
+            </ul>
+          </div>
+
+          <div>
+            <h4 className="font-semibold text-white mb-3">Company</h4>
+            <ul className="space-y-2 text-sm">
+              <li><Link href={`/${locale}/about`} className="hover:text-white transition-colors">About Us</Link></li>
+              <li><Link href={`/${locale}/how-to-use`} className="hover:text-white transition-colors">How to Use / FAQ</Link></li>
+              <li><Link href={`/${locale}/privacy`} className="hover:text-white transition-colors">Privacy Policy</Link></li>
+              <li><Link href={`/${locale}/terms`} className="hover:text-white transition-colors">Terms of Use</Link></li>
             </ul>
           </div>
         </div>

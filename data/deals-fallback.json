@@ -255,21 +255,6 @@
     "users": 1500000
   },
   {
-    "id": "18",
-    "name": "Adobe Creative Cloud",
-    "slug": "adobe-cc-trial",
-    "category": "Design",
-    "dealType": "trial",
-    "originalPrice": 55,
-    "dealPrice": 0,
-    "savings": 55,
-    "expiresDate": "2026-04-20",
-    "dealUrl": "https://adobe.com/creativecloud",
-    "description": "Complete suite of creative tools including Photoshop, Illustrator, and Premiere Pro. 7-day free trial.",
-    "rating": 4.6,
-    "users": 30000000
-  },
-  {
     "id": "19",
     "name": "Slack",
     "slug": "slack-free-trial",
@@ -448,36 +433,6 @@
     "description": "All-in-one marketing toolkit. 7-day free trial of Pro plan with 5 projects, 500 keywords, and full access.",
     "rating": 4.7,
     "users": 10000000
-  },
-  {
-    "id": "31",
-    "name": "Writesonic",
-    "slug": "writesonic-appsumo-lifetime",
-    "category": "AI/ML",
-    "dealType": "lifetime",
-    "originalPrice": 600,
-    "dealPrice": 69,
-    "savings": 531,
-    "expiresDate": "2026-04-19",
-    "dealUrl": "https://appsumo.com/products/writesonic",
-    "description": "AI writing tool for blogs, ads, and social media. AppSumo lifetime deal — 88% off. Generate unlimited content.",
-    "rating": 4.5,
-    "users": 3000000
-  },
-  {
-    "id": "32",
-    "name": "Focusplan",
-    "slug": "focusplan-lifetime",
-    "category": "Productivity",
-    "dealType": "lifetime",
-    "originalPrice": 240,
-    "dealPrice": 49,
-    "savings": 191,
-    "expiresDate": "2026-04-17",
-    "dealUrl": "https://appsumo.com/products/focusplan",
-    "description": "Visual project planning on canvas. One-time payment for lifetime access with unlimited boards.",
-    "rating": 4.4,
-    "users": 50000
   },
   {
     "id": "33",
@@ -898,5 +853,50 @@
     "description": "Workflow automation platform. 14-day Starter plan trial with 750 tasks/month and multi-step Zaps.",
     "rating": 4.7,
     "users": 2200000
+  },
+  {
+    "id": "61",
+    "name": "Adobe Creative Cloud",
+    "slug": "adobe-cc-spring-2026",
+    "category": "Design",
+    "dealType": "discount",
+    "originalPrice": 59.99,
+    "dealPrice": 29.99,
+    "savings": 30,
+    "expiresDate": "2026-06-30",
+    "dealUrl": "https://adobe.com",
+    "description": "Adobe Creative Cloud All Apps plan discounted 50% for first year. Access Photoshop, Illustrator, Premiere Pro, and 20+ more apps.",
+    "rating": 4.7,
+    "users": 30000000
+  },
+  {
+    "id": "62",
+    "name": "Anthropic Claude API",
+    "slug": "claude-api-free",
+    "category": "AI & ML",
+    "dealType": "free",
+    "originalPrice": 0,
+    "dealPrice": 0,
+    "savings": 0,
+    "expiresDate": null,
+    "dealUrl": "https://anthropic.com",
+    "description": "Claude API free tier with generous rate limits. Access Claude Haiku for rapid prototyping and Claude Sonnet for production workloads. Build AI-powered apps without upfront cost.",
+    "rating": 4.9,
+    "users": 1000000
+  },
+  {
+    "id": "63",
+    "name": "Perplexity Pro",
+    "slug": "perplexity-pro-trial",
+    "category": "AI & ML",
+    "dealType": "trial",
+    "originalPrice": 20,
+    "dealPrice": 0,
+    "savings": 20,
+    "expiresDate": "2026-06-30",
+    "dealUrl": "https://perplexity.ai",
+    "description": "Perplexity Pro free trial with unlimited AI search, Claude & GPT-4 access, file upload, and API access. No credit card required for 7-day trial.",
+    "rating": 4.6,
+    "users": 10000000
   }
 ]
